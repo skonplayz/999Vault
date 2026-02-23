@@ -2,12 +2,6 @@
   <img src="./icon.png" width="140">
 </p>
 
-<h1 align="center">
-  <span style="background: linear-gradient(90deg, #ffffff, #b3b3ff, #8080ff, #ffffff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    999Vault
-  </span>
-</h1>
-
 <p align="center">
   <img src="./logo.svg" width="520">
 </p>
@@ -31,7 +25,7 @@
 
 ## The Vault Exists.
 
-999Vault is a **cloud-streamed music vault** powered by Cloudflare R2.
+999Vault is a **cloud-streamed music vault** for unreleased and leaked Juice WRLD songs.
 
 No installs.  
 No uploads required.  
