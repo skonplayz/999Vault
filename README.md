@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/icon.png" width="140">
+  <img src="./icon.png" width="140">
 </p>
 
 <h1 align="center">
@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <img src="assets/logo.svg" width="520">
+  <img src="./logo.svg" width="520">
 </p>
 
 <p align="center">
