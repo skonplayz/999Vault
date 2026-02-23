@@ -1,48 +1,75 @@
-# 999Vault
+<p align="center">
+  <img src="assets/icon.png" width="140">
+</p>
 
-**Stream unreleased and leaked Juice WRLD songs for free � in a premium-feeling desktop player.**
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #ffffff, #b3b3ff, #8080ff, #ffffff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    999Vault
+  </span>
+</h1>
 
-999Vault is a slick, private music app built to feel clean, fast, and cinematic. Upload your files, explore by album or artist, and let the UI do the flexing.
+<p align="center">
+  <b>A desktop vault app for streaming unreleased Juice WRLD music.</b>
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/PLATFORM-WINDOWS-111111?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-111111?style=for-the-badge">
+</p>
 
-## What It Feels Like
-
-- Dark, neon-clean interface with bold cover art
-- Fast search and instant playback
-- Album/artist side panels with big artwork
-- Smooth transitions and a �real product� vibe
-
----
-
-## How To Use
-
-1. Click **Upload**
-2. Drop your audio file
-3. The app auto-fills title/artist and grabs cover art
-4. Hit **Upload** and it shows up instantly
-
----
-
-## Features You�ll Actually Use
-
-- Upload and play your own tracks
-- Auto cover art + metadata from MP3
-- Clean playlists (Liked, Queue, Recommended)
-- Search by title, artist, or genre
-- A yearly listening recap in December/January
+<p align="center">
+  <img src="https://img.shields.io/badge/interface-dark-000000?style=flat-square">
+  <img src="https://img.shields.io/badge/aesthetic-glow-000000?style=flat-square">
+  <img src="https://img.shields.io/badge/experience-premium-000000?style=flat-square">
+</p>
 
 ---
 
-## Notes
+## The Vault Exists.
 
-- This app is for personal use.
-- Works offline once your songs are added.
+999Vault is a **cloud-streamed music vault** powered by Cloudflare R2.
+
+No installs.  
+No uploads required.  
+No waiting.
+
+Just open the app — and the entire archive is there.
+
+Stream instantly. Search instantly. Play instantly.
+
+Everything lives in the cloud.  
+Everything feels native.
 
 ---
 
-## Screenshots
+## Preview
 
-Add images here:
-- `/assets/screenshot-1.png`
-- `/assets/screenshot-2.png`
+<p align="center">
+  <img src="assets/screenshot-1.png" width="900">
+</p>
+
+<p align="center">
+  <img src="assets/screenshot-2.png" width="900">
+</p>
+
+---
+
+## Experience
+
+999Vault was designed to feel like something that shouldn't exist.
+
+Smooth. Silent. Immediate.
+
+- Massive cover art display
+- Instant streaming from Cloudflare R2
+- Zero buffering playback
+- Lightning-fast search
+- Clean sidebar vault navigation
+- Cinematic dark interface
+- Native desktop performance
+
+No loading screens. No friction.
+
+---
+
+## Streaming Architecture
