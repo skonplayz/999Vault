@@ -9,6 +9,10 @@
 </h1>
 
 <p align="center">
+  <img src="assets/logo.svg" width="520">
+</p>
+
+<p align="center">
   <b>A desktop vault app for streaming unreleased Juice WRLD music.</b>
 </p>
 
