@@ -23,11 +23,12 @@
     dominant-baseline="middle"
     text-anchor="middle"
     font-size="72"
-    font-family="Segoe UI, Arial, sans-serif"
+    font-family="Poppins, Arial, sans-serif"
     fill="url(#grad)"
     filter="url(#glow)"
   >
     999Vault
   </text>
+
 
 </svg>
