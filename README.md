@@ -11,8 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PLATFORM-WINDOWS-111111?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-111111?style=for-the-badge">
+  <img width="1919" height="1023" alt="image" src="https://github.com/user-attachments/assets/2eb3b581-0c20-4b41-a54d-badf619be32c" />
 </p>
 
 <p align="center">
