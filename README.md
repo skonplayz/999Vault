@@ -24,18 +24,9 @@
 
 ## The Vault Exists.
 
-999Vault is a **cloud-streamed music vault** for unreleased and leaked Juice WRLD songs.
+999Vault is a desktop streaming app for unreleased and leaked Juice WRLD songs.
 
-No installs.  
-No uploads required.  
-No waiting.
-
-Just open the app — and the entire archive is there.
-
-Stream instantly. Search instantly. Play instantly.
-
-Everything lives in the cloud.  
-Everything feels native.
+With instant streaming, everything feels native.
 
 ---
 
@@ -53,20 +44,10 @@ Everything feels native.
 
 ## Experience
 
-999Vault was designed to feel like something that shouldn't exist.
+999Vault was designed to feel user-friendly, featuring:
 
-Smooth. Silent. Immediate.
-
-- Massive cover art display
-- Instant streaming from Cloudflare R2
+- Instant streaming
 - Zero buffering playback
-- Lightning-fast search
-- Clean sidebar vault navigation
-- Cinematic dark interface
+- Fast search results
+- Simple and "easy to adjust to" UI navigation
 - Native desktop performance
-
-No loading screens. No friction.
-
----
-
-## Streaming Architecture
