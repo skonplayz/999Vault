@@ -33,21 +33,29 @@ With instant streaming, everything feels native.
 ## Preview
 
 <p align="center">
-  <img src="assets/screenshot-1.png" width="900">
+  <img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/c34f8d28-cfb4-40cc-94ab-e90cba0fed76" />
 </p>
 
 <p align="center">
-  <img src="assets/screenshot-2.png" width="900">
+  <img width="1919" height="1024" alt="image" src="https://github.com/user-attachments/assets/362a762f-b726-49ee-bc7c-85a14c941095" />
 </p>
 
 ---
 
-## Experience
+## Spec Requirements
 
-999Vault was designed to feel user-friendly, featuring:
+### Minimum
+OS: Windows 10 (64‑bit)
+CPU: Dual‑core 2.0 GHz
+RAM: 4 GB
+GPU: Any DirectX 11‑capable iGPU
+Storage: 500 MB free
+Internet: Stable broadband (for streaming)
 
-- Instant streaming
-- Zero buffering playback
-- Fast search results
-- Simple and "easy to adjust to" UI navigation
-- Native desktop performance
+### Recommended
+OS: Windows 10/11 (64‑bit)
+CPU: Quad‑core 2.5 GHz+
+RAM: 8 GB+
+GPU: Modern iGPU or entry‑level dGPU
+Storage: 1 GB free
+Internet: 25 Mbps+ for fast streaming + uploads
